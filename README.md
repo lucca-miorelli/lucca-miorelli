@@ -21,6 +21,7 @@ At least this time, it's just my ego that's wounded, not the lab!
 
 
 ### Certificates
+<a href="https://www.credly.com/badges/94786083-7bbd-46e4-9078-91afb3cd4a74/public_url" target="_blank"><img title="aws_saa" width="150px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a href="https://www.credly.com/badges/27703c81-290e-40d2-bd83-5e57b4434880/public_url" target="_blank"><img title="aws_ccp" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 <a href="https://www.credly.com/badges/c5396c6d-3f8a-4d04-86e6-b296978794e5/public_url" target="_blank"><img title="airflow_fundamentals" width="150px" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/></a>
 
