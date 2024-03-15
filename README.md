@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm <a href="https://www.linkedin.com/in/lucca-miorelli/" target="blank">Lucca</a>
 
-Data Engineer and MLOps @ Poatek. Sports lover, but also talks about Machine Learning 🤖, Python 🐍, and D&A in general 💻.
+Data Engineer @ Poatek. Sports lover, but also talks about Machine Learning 🤖, Python 🐍, and D&A in general 💻.
 
 - 🏡 From: Brazil 🇧🇷
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/), [Medium](https://medium.com/@lucca.miorelli)
