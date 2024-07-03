@@ -4,10 +4,18 @@ Data Engineer @ Poatek. Sports lover, but also talks about Machine Learning 🤖
 
 - 🏡 From: Brazil 🇧🇷
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/), [Medium](https://medium.com/@lucca.miorelli)
-- 🧪 Fun fact about me: I'm a Chemical Engineer turned Data Engineer, who kicked things off as a BI analyst and ended up doing every data-related job under the sun.
+- 🧪 Fun fact about me: I'm a Chemical Engineer turned Data Engineer.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lucca-miorelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucca-miorelli/" height="30" width="40" /></a>
+</p>
 
-So, rather than dealing with volatile mixtures that could blow up in my face, I'm now juggling lines of code that occasionally blow up my screen.
-At least this time, it's just my ego that's wounded, not the lab!
+### Certificates
+<a href="https://www.credly.com/badges/94786083-7bbd-46e4-9078-91afb3cd4a74/public_url" target="_blank"><img title="aws_saa" width="150px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
+<a href="https://www.credly.com/badges/27703c81-290e-40d2-bd83-5e57b4434880/public_url" target="_blank"><img title="aws_ccp" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a href="https://www.credly.com/badges/c5396c6d-3f8a-4d04-86e6-b296978794e5/public_url" target="_blank"><img title="airflow_fundamentals" width="150px" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/></a>
+
+
 
 ### Projects
 
@@ -20,8 +28,4 @@ At least this time, it's just my ego that's wounded, not the lab!
 | <a href="https://github.com/lucca-miorelli/poa_criminality_analysis">poa_criminality_analysis</a>      | Whipped up a simple Matplotlib demo for a DataViz crash course.                                                                           | <a href="https://www.python.org/" target="_blank"><img title="Python" width=25px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> <a href="https://matplotlib.org/" target="_blank"><img title="matplotlib" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                            
 
 
-### Certificates
-<a href="https://www.credly.com/badges/94786083-7bbd-46e4-9078-91afb3cd4a74/public_url" target="_blank"><img title="aws_saa" width="150px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
-<a href="https://www.credly.com/badges/27703c81-290e-40d2-bd83-5e57b4434880/public_url" target="_blank"><img title="aws_ccp" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-<a href="https://www.credly.com/badges/c5396c6d-3f8a-4d04-86e6-b296978794e5/public_url" target="_blank"><img title="airflow_fundamentals" width="150px" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"/></a>
 
