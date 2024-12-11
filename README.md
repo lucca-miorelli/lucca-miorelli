@@ -2,7 +2,7 @@
 
 Data Engineer. Sports lover, also talk about Machine Learning 🤖, Python 🐍, and D&A in general 💻.
 
-- 🏡 From: Brazil 🇧🇷
+- 🏡 From Brazil 🇧🇷, based in Barcelona 🇪🇸
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/), [Medium](https://medium.com/@lucca.miorelli)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
